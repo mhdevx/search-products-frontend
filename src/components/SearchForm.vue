@@ -7,7 +7,7 @@
     <input  class="form-control mr-sm-2 p-2 bd-highlight" type="search" 
     placeholder="¿Qué está buscando?" aria-label="Search" v-model="term" >
     <a v-on:click="showTermAndSearch(term)" class="btn btn-outline-light my-2 my-sm-0"> 
-        <font-awesome-icon :icon="['fas', 'search']"/>
+        <font-awesome-icon :icon="['fas', 'search']"/>.
     </a>
   </form>
 </nav>
