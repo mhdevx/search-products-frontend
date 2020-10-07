@@ -10,6 +10,7 @@
         <font-awesome-icon :icon="['fas', 'search']"/>
     </a>
   </form>
+  
 </nav>
 </div>
 </header>
